@@ -76,6 +76,12 @@ section {
   margin-bottom: 40px;
 }
 
+section p {
+  font-size: 16px;
+  line-height: 1.5;
+  color: #666;
+}
+
 section h2 {
   font-size: 28px;
   color: #0077b6;
@@ -148,4 +154,11 @@ footer {
 footer p {
   margin: 0;
   font-size: 16px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
